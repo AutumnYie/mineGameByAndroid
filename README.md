@@ -1,6 +1,6 @@
 # 安卓扫雷
 
-![image](images/a.png)
-![image](images/b.png)
+![image](mineGameByAndroid/images/a.png)
+![image](mineGameByAndroid/images/b.png)
 
 *by AutumnYie*
