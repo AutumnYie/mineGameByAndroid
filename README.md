@@ -1,6 +1,6 @@
 # 安卓扫雷
 
-![image](master/images/a.png)
-![image](master/images/b.png)
+![image](images/a.png)
+![image](images/b.png)
 
 *by AutumnYie*
